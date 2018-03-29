@@ -1,0 +1,19 @@
+{
+    "name": "Demo app for pwa",
+    "short_name":"DPWA",
+    "theme_color":"#fff",
+    "background_color": "#009200",
+    "display": "standlone",
+    "orientation":"portrait",
+    "scope":".",
+    "start_url":".",
+    "icons":[
+        {
+            "src":
+            "./images/icon/icon/-72x72.png",
+            "sizes":"72x72",
+            "type":"image/png"
+        }
+    ]
+
+}
